@@ -1,4 +1,4 @@
-# task 01: Temperature Converter
+# Task 01: Temperature Converter
 
 This is a simple Python program that converts temperature values between **Kelvin (K)**, **Celsius (C)**, and **Fahrenheit (F)**. It prompts the user to enter a temperature and select the units to convert from and to. The program performs the necessary calculation and returns the converted value.
 
@@ -40,4 +40,4 @@ Temperature in Kelvin: 273.15 K
 ```
 ---
 
-Connect with me on [LinkedIn!](www.linkedin.com/in/noora-m-02371a34a)
+Connect with me on [LinkedIn!](https://www.linkedin.com/in/noora-m-02371a34a)
